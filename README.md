@@ -17,7 +17,7 @@ Evaluado sobre el **Pima Indians Diabetes Dataset** (768 pacientes, 8 variables 
 | SVM | 0.7338 | 0.64 | 0.7690 |
 | Red Neuronal | 0.7468 | 0.64 | 0.8195 |
 
-Random Forest obtuvo el mejor rendimiento global, con el AUC más alto (0.84) y mejor F1-score.
+Random Forest obtuvo el mejor rendimiento global, con el AUC más alto (0.84) y mejor F1-score (0.67).
 
 ---
 
